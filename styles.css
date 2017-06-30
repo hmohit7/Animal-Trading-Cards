@@ -1,0 +1,28 @@
+/* add your CSS here */
+#catpic{
+    width: 300px;
+    padding-bottom: 20px;
+    box-shadow: transparent;
+
+}
+.intfact{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+    list-style: none;
+    padding-left: 0px;
+}
+#border1{
+    border-style:solid;
+
+    width: 300px;
+    padding: 20px;
+     box-shadow: 10px 10px 5px #888888;
+
+}
+#border2{
+    border-style: solid;
+    padding: 20px;
+
+}
